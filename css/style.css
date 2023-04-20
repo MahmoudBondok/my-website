@@ -910,7 +910,7 @@ footer .row.last span{
 .do button:hover{
     background-color: transparent;
 }
-.do img{
+.do .cardss{
     position: absolute;
     left: 0;
     bottom: 0;
